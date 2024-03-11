@@ -1,4 +1,4 @@
-# Snaider - Aficionado en Ciberseguridad
+# Snaider - Aprendiz en Ciberseguridad
 
 ¡Hola! Soy Snaider, un entusiasta de la ciberseguridad con conocimientos en diversas áreas. Mi objetivo es seguir fortaleciendo mis habilidades y contribuir al mundo de la seguridad digital.
 
@@ -33,6 +33,6 @@
 ## Contacto
 - 📧 Correo electrónico: snaider13holguin@gmail.com
 - 📷 Instagram: @saaaider
-- 💼 LinkedIn: linkedin.com/in/snaider-holguin
+- 💼 [LinkedIn](https:/linkedin.com/in/snaider-holguin)
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por seguir creciendo en el campo de la ciberseguridad y colaborar con otros apasionados. ¡Construyamos juntos un entorno digital más seguro!
