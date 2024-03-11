@@ -31,8 +31,8 @@
 - 📝 Compartir conocimientos a través de blogs y redes sociales
 
 ## Contacto
-- 📧 Correo electrónico: [snaider13holguin@gmail.com]
-- 📷 Instagram: [@saaaider]
-- 💼 LinkedIn: [linkedin.com/in/snaider-holguin]
+- 📧 Correo electrónico: snaider13holguin@gmail.com
+- 📷 Instagram: @saaaider
+- 💼 LinkedIn: linkedin.com/in/snaider-holguin
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por seguir creciendo en el campo de la ciberseguridad y colaborar con otros apasionados. ¡Construyamos juntos un entorno digital más seguro!
