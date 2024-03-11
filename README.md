@@ -1,6 +1,6 @@
-# [Snaider] - Aficionado en Ciberseguridad
+# Snaider - Aficionado en Ciberseguridad
 
-¡Hola! Soy [Snaider], un entusiasta de la ciberseguridad con conocimientos en diversas áreas. Mi objetivo es seguir fortaleciendo mis habilidades y contribuir al mundo de la seguridad digital.
+¡Hola! Soy Snaider, un entusiasta de la ciberseguridad con conocimientos en diversas áreas. Mi objetivo es seguir fortaleciendo mis habilidades y contribuir al mundo de la seguridad digital.
 
 ## Acerca de mí
 - 👨‍💻 Aficionado en ciberseguridad
@@ -23,8 +23,8 @@
 - 🛢️ Bases de datos (BBDD)
 
 ## Proyectos Destacados
-- [Proyecto de Desarrollo Web: Estoy trabajando en una página de estética donde los usuarios pueden realizar reservas para el día que les convenga. También estoy implementando una interfaz de administrador para gestionar las reservas diarias.]
-- [Proyecto 2: Proximamente ]
+- Proyecto de Desarrollo Web: Estoy trabajando en una página de estética donde los usuarios pueden realizar reservas para el día que les convenga. También estoy implementando una interfaz de administrador para gestionar las reservas diarias.
+- Proyecto 2: Proximamente...
 
 ## Metas Actuales
 - 🤖 Experimentar con nuevas herramientas de seguridad
